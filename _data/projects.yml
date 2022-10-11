@@ -5,12 +5,12 @@
 - project: MES 구축 팀 프로젝트
   role: 프로젝트 리더 
   duration: 2022.09.27 &mdash; Present
-  # url: "https://github.com/Baek-KH/SmartFarm"
+  url: "https://github.com/Baek-KH/SmartFarm"
   description: Spring을 통한 SMART FARM 프로세스 관리 웹 MES 제작 팀 프로젝트
 
 # Shoping Mall
 - project: 쇼핑몰 제작 미니 프로젝트
   role: 개인 제작
   duration: 2022.07 &mdash; 
-  # url: "https://github.com/Baek-KH/MiniProject"
+  url: "https://github.com/Baek-KH/MiniProject"
   description: JSP 언어를 통한 기초 CRUD 제작 및 로그인, 카트 시스템 제작
