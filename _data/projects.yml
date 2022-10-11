@@ -1,16 +1,16 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Smart Farm
+- project: MES 구축 팀 프로젝트
+  role: 프로젝트 리더 
+  duration: 2022.09.27 &mdash; Present
+  # url: "https://github.com/Baek-KH/SmartFarm"
+  description: Spring을 통한 SMART FARM 프로세스 관리 웹 MES 제작 팀 프로젝트
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# Shoping Mall
+- project: 쇼핑몰 제작 미니 프로젝트
+  role: 개인 제작
+  duration: 2022.07 &mdash; 
+  # url: "https://github.com/Baek-KH/MiniProject"
+  description: JSP 언어를 통한 기초 CRUD 제작 및 로그인, 카트 시스템 제작
